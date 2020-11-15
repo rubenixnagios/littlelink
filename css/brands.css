@@ -148,6 +148,14 @@ button:hover,
 .button.button-mixer:focus {
   filter: brightness(90%) }
 
+/* Paypal */
+.button.button-paypal {
+  color: #FFFFFF;
+  background-color: #0A66C2 }
+.button.button-linkedin:hover,
+.button.button-linkedin:focus {
+  filter: brightness(90%) }
+
 /* Pinterest */
 .button.button-pinterest {
   color: #FFFFFF;
